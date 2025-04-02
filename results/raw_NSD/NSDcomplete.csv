@@ -1,0 +1,271 @@
+,source,zin,phenomenon,grammatical,id_1,id_2,id_3,id_4,id_5,id_6,id_7,id_8,id_9,id_10,id_11,id_12,id_13,avg,max,min
+0,NSD_phenomena1&2_version1CLIN,De maan schijnt.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,4,7,7,7,6,7.0,,,,,,6.5,7,4
+1,NSD_phenomena1&2_version1CLIN,De zon schijnt.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,7,7,7,7,7.0,,,,,,7.0,7,7
+2,NSD_phenomena1&2_version1CLIN,De aarde is bol.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,1,3,7,7,6,6,6.0,,,,,,5.375,7,1
+3,NSD_phenomena1&2_version1CLIN,De sahara is erg heet.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,6,7,7,7,3,2.0,,,,,,5.75,7,2
+4,NSD_phenomena1&2_version1CLIN,De Eiffeltoren staat in Parijs.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,7,7,7,7,7.0,,,,,,7.0,7,7
+5,NSD_phenomena1&2_version1CLIN,De Mona Lisa hangt in het Louvre.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,6,7,7,7,5,7.0,,,,,,6.625,7,5
+6,NSD_phenomena1&2_version1CLIN,Er helt een Toren van Pisa over.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,1,1,1,6,7,1,1,2.0,,,,,,2.5,7,1
+7,NSD_phenomena1&2_version1CLIN,Er staat een Taj Mahal in India.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,2,1,5,6,7,3,1,2.0,,,,,,3.375,7,1
+8,NSD_phenomena1&2_version1CLIN,Een continent van Europa is klein.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,1,2,1,1,7,1,1,2.0,,,,,,2.0,7,1
+9,NSD_phenomena1&2_version1CLIN,De terechtstelling van de misdadiger (was afschrikwekkend.),6. Nominalizations,1,7,6,1,7,7,6,6,6.0,,,,,,5.75,7,1
+10,NSD_phenomena1&2_version1CLIN,De schenking van kadobonnen aan de jarige (was een goed idee.),6. Nominalizations,1,7,6,1,7,7,6,2,7.0,,,,,,5.375,7,1
+11,NSD_phenomena1&2_version1CLIN,De verstrekking van kortingsbonnen in een supermarkt (werd gewaardeerd.),6. Nominalizations,1,7,7,1,7,7,4,3,2.0,,,,,,4.75,7,1
+12,NSD_phenomena1&2_version1CLIN,Het pannenkoeken bakken (is voor Anneke niet moeilijk.),6. Nominalizations,1,6,6,1,5,7,6,4,7.0,,,,,,5.25,7,1
+13,NSD_phenomena1&2_version1CLIN,Het bakken van pannenkoeken (is voor Anneke niet moeilijk.),6. Nominalizations,1,7,5,1,7,7,7,6,3.0,,,,,,5.375,7,1
+14,NSD_phenomena1&2_version1CLIN,Het voor grootmoeder thee inschenken (is een hele opgave.),6. Nominalizations,1,2,1,2,4,7,1,1,2.0,,,,,,2.5,7,1
+15,NSD_phenomena1&2_version1CLIN,Eten van mosselen (is in de mode.),6. Nominalizations,0,4,6,1,7,7,5,5,3.0,,,,,,4.75,7,1
+16,NSD_phenomena1&2_version1CLIN,Cognac aanbieden tante Fien (vindt pa doodzonde.),6. Nominalizations,0,1,1,1,1,1,1,1,2.0,,,,,,1.125,2,1
+17,NSD_phenomena1&2_version1CLIN,Een nieuwe broek kopen Eric (is altijd leuk.),6. Nominalizations,0,1,1,1,1,1,1,1,7.0,,,,,,1.75,7,1
+18,NSD_phenomena1&2_version2CLIN,De Toren van Pisa helt over.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,6,7,7,7,7,4,7,6.0,,,,,,6.375,7,4
+19,NSD_phenomena1&2_version2CLIN,De Taj Mahal staat in India.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,7,7,5,7,7.0,,,,,,6.75,7,5
+20,NSD_phenomena1&2_version2CLIN,Het continent van Europa is klein.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,2,4,5,6,6,5,2,2.0,,,,,,4.0,6,2
+21,NSD_phenomena1&2_version2CLIN,De sahara is erg heet.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,7,7,5,7,7.0,,,,,,6.75,7,5
+22,NSD_phenomena1&2_version2CLIN,De Eiffeltoren staat in Parijs.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,7,7,5,7,7.0,,,,,,6.75,7,5
+23,NSD_phenomena1&2_version2CLIN,De Mona Lisa hangt in het Louvre.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,7,7,4,7,7.0,,,,,,6.625,7,4
+24,NSD_phenomena1&2_version2CLIN,Er schijnt een maan.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,7,2,7,4,7,5,4,6.0,,,,,,5.25,7,2
+25,NSD_phenomena1&2_version2CLIN,Er schijnt een zon.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,7,1,7,3,7,4,5,6.0,,,,,,5.0,7,1
+26,NSD_phenomena1&2_version2CLIN,Een aarde is bol.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,4,2,1,1,6,4,2,3.0,,,,,,2.875,6,1
+27,NSD_phenomena1&2_version2CLIN,Mosselen eten (is in de mode.),6. Nominalizations,1,5,7,7,7,7,4,3,6.0,,,,,,5.75,7,3
+28,NSD_phenomena1&2_version2CLIN,Cognac aanbieden aan tante Fien (vindt pa doodzonde.),6. Nominalizations,1,2,7,7,7,7,4,5,6.0,,,,,,5.625,7,2
+29,NSD_phenomena1&2_version2CLIN,Een nieuwe broek kopen voor Eric (is altijd leuk.),6. Nominalizations,1,4,7,5,7,7,4,4,7.0,,,,,,5.625,7,4
+30,NSD_phenomena1&2_version2CLIN,Het pannenkoeken bakken (is voor Anneke niet moeilijk.),6. Nominalizations,1,1,7,7,2,5,6,1,5.0,,,,,,4.25,7,1
+31,NSD_phenomena1&2_version2CLIN,Het bakken van pannenkoeken (is voor Anneke niet moeilijk.),6. Nominalizations,1,5,7,7,7,7,6,4,7.0,,,,,,6.25,7,4
+32,NSD_phenomena1&2_version2CLIN,Het voor grootmoeder thee inschenken (is een hele opgave.),6. Nominalizations,1,3,5,4,2,5,2,1,3.0,,,,,,3.125,5,1
+33,NSD_phenomena1&2_version2CLIN,De misdadiger terechtstelling (was afschrikwekkend.),6. Nominalizations,0,2,5,1,1,1,2,2,2.0,,,,,,2.0,5,1
+34,NSD_phenomena1&2_version2CLIN,De jarige schenking van kadobonnen (was een goed idee.),6. Nominalizations,0,1,2,1,1,1,2,3,3.0,,,,,,1.75,3,1
+35,NSD_phenomena1&2_version2CLIN,De in een supermarkt verstrekking van kortingsbonnen (werd gewaardeerd.),6. Nominalizations,0,2,5,1,7,1,5,2,4.0,,,,,,3.375,7,1
+36,NSD_phenomena1&2_version3CLIN,De maan schijnt.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,1,3,7,7,7,7.0,7.0,7.0,,,,6.0,7,1
+37,NSD_phenomena1&2_version3CLIN,De zon schijnt.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,6,7,7,7,7,7,7.0,7.0,7.0,,,,6.9,7,6
+38,NSD_phenomena1&2_version3CLIN,De aarde is bol.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,2,6,5,2,6,1,7,7.0,5.0,7.0,,,,4.8,7,1
+39,NSD_phenomena1&2_version3CLIN,De Toren van Pisa helt over.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,5,6,6,4,7,4,7,4.0,5.0,7.0,,,,5.5,7,4
+40,NSD_phenomena1&2_version3CLIN,De Taj Mahal staat in India.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,7,7,7,5,7,5,7,7.0,7.0,7.0,,,,6.6,7,5
+41,NSD_phenomena1&2_version3CLIN,Het continent van Europa is klein.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",1,2,2,4,2,1,4,1,2.0,5.0,7.0,,,,3.0,7,1
+42,NSD_phenomena1&2_version3CLIN,Een sahara is erg heet.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,2,4,4,1,1,1,1,7.0,4.0,1.0,,,,2.6,7,1
+43,NSD_phenomena1&2_version3CLIN,Er staat een Eiffeltoren in Parijs.,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,2,3,3,1,2,4,2,3.0,5.0,3.0,,,,2.8,5,1
+44,NSD_phenomena1&2_version3CLIN,Er hangt een Mona Lisa in het Louvre,"5. Definite, Indefinite, Categorical and Generic Noun Phrases",0,2,4,3,5,2,1,1,1.0,4.0,2.0,,,,2.5,5,1
+45,NSD_phenomena1&2_version3CLIN,De terechtstelling van de misdadiger (was afschrikwekkend.),6. Nominalizations,1,7,3,5,2,6,1,7,7.0,7.0,7.0,,,,5.2,7,1
+46,NSD_phenomena1&2_version3CLIN,De schenking van kadobonnen aan de jarige (was een goed idee.),6. Nominalizations,1,4,3,5,1,6,1,5,5.0,7.0,7.0,,,,4.4,7,1
+47,NSD_phenomena1&2_version3CLIN,De verstrekking van kortingsbonnen in een supermarkt (werd gewaardeerd.),6. Nominalizations,1,4,4,4,1,7,1,6,6.0,7.0,7.0,,,,4.7,7,1
+48,NSD_phenomena1&2_version3CLIN,Mosselen eten (is in de mode.),6. Nominalizations,1,5,2,3,3,7,1,7,2.0,7.0,7.0,,,,4.4,7,1
+49,NSD_phenomena1&2_version3CLIN,Cognac aanbieden aan tante Fien (vindt pa doodzonde.),6. Nominalizations,1,5,4,5,2,7,1,4,6.0,6.0,7.0,,,,4.7,7,1
+50,NSD_phenomena1&2_version3CLIN,Een nieuwe broek kopen voor Eric (is altijd leuk.),6. Nominalizations,1,6,4,5,1,7,1,7,6.0,7.0,7.0,,,,5.1,7,1
+51,NSD_phenomena1&2_version3CLIN,Het een pannenkoek bakken (is voor Anneke niet moeilijk.),6. Nominalizations,0,1,1,3,1,1,1,1,1.0,1.0,1.0,,,,1.2,3,1
+52,NSD_phenomena1&2_version3CLIN,Het van pannenkoeken bakken (is voor Anneke niet moeilijk.),6. Nominalizations,0,1,1,2,1,1,1,1,1.0,3.0,1.0,,,,1.3,3,1
+53,NSD_phenomena1&2_version3CLIN,Het grootmoeder inschenken van thee (is een hele opgave.),6. Nominalizations,0,1,1,1,1,6,1,1,1.0,1.0,1.0,,,,1.5,6,1
+54,NSD_phenomena3&4_version1CLIN,Een zeer hard gesteente.,3. The Construction of the Adjective Phrase,1,7,5,7,7,7,4,6,7.0,7.0,7.0,4.0,,,6.181818182,7,4
+55,NSD_phenomena3&4_version1CLIN,Laura is heel getalenteerd.,3. The Construction of the Adjective Phrase,1,7,7,6,7,7,7,7,7.0,7.0,7.0,6.0,,,6.818181818,7,6
+56,NSD_phenomena3&4_version1CLIN,Hij is niet bepaald tuk op vergaderen.,3. The Construction of the Adjective Phrase,1,7,3,7,4,4,5,6,6.0,7.0,7.0,3.0,,,5.363636364,7,3
+57,NSD_phenomena3&4_version1CLIN,De boom is erg hoog.,3. The Construction of the Adjective Phrase,1,7,7,7,7,5,7,4,6.0,6.0,7.0,6.0,,,6.272727273,7,4
+58,NSD_phenomena3&4_version1CLIN,Wim is nogal eigenwijs.,3. The Construction of the Adjective Phrase,1,7,7,7,6,7,7,7,6.0,7.0,7.0,7.0,,,6.818181818,7,6
+59,NSD_phenomena3&4_version1CLIN,Nienke is zeer aantrekkelijk.,3. The Construction of the Adjective Phrase,1,7,7,6,7,7,7,7,2.0,7.0,7.0,7.0,,,6.454545455,7,2
+60,NSD_phenomena3&4_version1CLIN,Hij is niet dol.,3. The Construction of the Adjective Phrase,0,1,5,1,1,2,4,1,1.0,2.0,4.0,3.0,,,2.272727273,5,1
+61,NSD_phenomena3&4_version1CLIN,Heel is de reis lang.,3. The Construction of the Adjective Phrase,0,1,2,1,1,2,4,1,1.0,1.0,1.0,1.0,,,1.454545455,4,1
+62,NSD_phenomena3&4_version1CLIN,Een beetje is de bank zacht.,3. The Construction of the Adjective Phrase,0,1,4,1,1,2,1,1,1.0,1.0,1.0,2.0,,,1.454545455,4,1
+63,NSD_phenomena3&4_version1CLIN,De koffie is warm genoeg.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,7,7,6,7,7,5,7.0,6.0,7.0,6.0,,,6.545454545,7,5
+64,NSD_phenomena3&4_version1CLIN,Dat klusje is makkelijk zat.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,7,5,4,4,7,6,6.0,3.0,7.0,5.0,,,5.545454545,7,3
+65,NSD_phenomena3&4_version1CLIN,Ik vind het een heel handig apparaat,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,7,7,6,7,7,7,7.0,7.0,7.0,7.0,,,6.909090909,7,6
+66,NSD_phenomena3&4_version1CLIN,Die flats zijn geweldig hoog.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,5,6,4,3,4,4,1.0,2.0,7.0,5.0,,,4.363636364,7,1
+67,NSD_phenomena3&4_version1CLIN,Mijn vrienden zijn geweldig mooi.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,7,4,5,2,4,2,1.0,2.0,7.0,5.0,,,4.181818182,7,1
+68,NSD_phenomena3&4_version1CLIN,De studenten zijn geweldig slim.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,6,3,5,7,7,6,1.0,5.0,7.0,5.0,,,5.363636364,7,1
+69,NSD_phenomena3&4_version1CLIN,Een makkelijk zat examen.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,7,3,6,1,2,4,2,2.0,2.0,7.0,1.0,,,3.363636364,7,1
+70,NSD_phenomena3&4_version1CLIN,Binnekort krijgen we een nieuw en heel handige systeem.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,1,4,6,3,2,2,3,1.0,1.0,1.0,5.0,,,2.636363636,6,1
+71,NSD_phenomena3&4_version1CLIN,Zijn ego is groot voldoende.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,1,4,1,2,2,1,2,1.0,1.0,1.0,1.0,,,1.545454545,4,1
+72,NSD_phenomena3&4_version2CLIN,Een zeer hard gesteente.,3. The Construction of the Adjective Phrase,1,6,5,7,2,5,7,7,7.0,,,,,,5.75,7,2
+73,NSD_phenomena3&4_version2CLIN,Laura is heel getalenteerd.,3. The Construction of the Adjective Phrase,1,7,7,7,6,7,7,7,7.0,,,,,,6.875,7,6
+74,NSD_phenomena3&4_version2CLIN,Hij is niet bepaald tuk op vergaderen.,3. The Construction of the Adjective Phrase,1,5,3,6,5,1,6,4,6.0,,,,,,4.5,6,1
+75,NSD_phenomena3&4_version2CLIN,Hij is niet dol op online les.,3. The Construction of the Adjective Phrase,1,6,6,7,5,5,5,7,6.0,,,,,,5.875,7,5
+76,NSD_phenomena3&4_version2CLIN,De reis is heel lang.,3. The Construction of the Adjective Phrase,1,5,7,7,7,7,6,7,7.0,,,,,,6.625,7,5
+77,NSD_phenomena3&4_version2CLIN,De bank is een beetje zacht.,3. The Construction of the Adjective Phrase,1,7,7,7,7,7,7,7,7.0,,,,,,7.0,7,7
+78,NSD_phenomena3&4_version2CLIN,Erg is de boom hoog.,3. The Construction of the Adjective Phrase,0,1,2,1,1,1,2,1,3.0,,,,,,1.5,3,1
+79,NSD_phenomena3&4_version2CLIN,Wim is nogal.,3. The Construction of the Adjective Phrase,0,1,2,2,6,1,2,1,4.0,,,,,,2.375,6,1
+80,NSD_phenomena3&4_version2CLIN,Nienke is zeer.,3. The Construction of the Adjective Phrase,0,1,2,2,6,1,2,1,4.0,,,,,,2.375,6,1
+81,NSD_phenomena3&4_version2CLIN,De koffie is warm genoeg.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,7,7,7,7,7,7,5.0,,,,,,6.75,7,5
+82,NSD_phenomena3&4_version2CLIN,Dat klusje is makkelijk zat.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,6,3,5,2,7,5,7,7.0,,,,,,5.25,7,2
+83,NSD_phenomena3&4_version2CLIN,Ik vind het een heel handig apparaat,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,7,7,7,7,7,7,7.0,,,,,,7.0,7,7
+84,NSD_phenomena3&4_version2CLIN,De examens zijn makkelijk zat.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,7,6,2,2,7,2,7,7.0,,,,,,5.0,7,2
+85,NSD_phenomena3&4_version2CLIN,Binnekort krijgen we een nieuwe en heel handig systeem.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,1,5,2,1,2,2,1,4.0,,,,,,2.25,5,1
+86,NSD_phenomena3&4_version2CLIN,Zijn ego is voldoende groot.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,3,3,2,1,5,2,2,4.0,,,,,,2.75,5,1
+87,NSD_phenomena3&4_version2CLIN,Die flats zijn geweldige hoog.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,1,2,2,1,2,2,1,2.0,,,,,,1.625,2,1
+88,NSD_phenomena3&4_version2CLIN,Mijn vrienden zijn geweldige mooi.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,1,1,2,7,1,2,1,5.0,,,,,,2.5,7,1
+89,NSD_phenomena3&4_version2CLIN,De studenten zijn geweldige slim.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,1,2,2,1,2,5,2,3.0,,,,,,2.25,5,1
+90,NSD_phenomena3&4_version3CLIN,De boom is erg hoog.,3. The Construction of the Adjective Phrase,1,6,7,2,5,2,7,7,7.0,2.0,7.0,,,,5.2,7,2
+91,NSD_phenomena3&4_version3CLIN,Wim is nogal eigenwijs.,3. The Construction of the Adjective Phrase,1,7,7,1,6,7,7,7,7.0,6.0,7.0,,,,6.2,7,1
+92,NSD_phenomena3&4_version3CLIN,Nienke is zeer aantrekkelijk.,3. The Construction of the Adjective Phrase,1,7,7,2,6,7,7,7,7.0,7.0,7.0,,,,6.4,7,2
+93,NSD_phenomena3&4_version3CLIN,Hij is niet dol op online les.,3. The Construction of the Adjective Phrase,1,6,7,4,3,2,7,7,7.0,2.0,7.0,,,,5.2,7,2
+94,NSD_phenomena3&4_version3CLIN,De reis is heel lang.,3. The Construction of the Adjective Phrase,1,7,7,2,6,7,1,7,7.0,7.0,7.0,,,,5.8,7,1
+95,NSD_phenomena3&4_version3CLIN,De bank is een beetje zacht.,3. The Construction of the Adjective Phrase,1,5,7,2,4,5,7,7,7.0,3.0,7.0,,,,5.4,7,2
+96,NSD_phenomena3&4_version3CLIN,Een zeer gesteente.,3. The Construction of the Adjective Phrase,0,2,3,7,1,1,3,2,1.0,2.0,1.0,,,,2.3,7,1
+97,NSD_phenomena3&4_version3CLIN,Laura is heel.,3. The Construction of the Adjective Phrase,0,1,3,7,1,1,1,2,1.0,2.0,1.0,,,,2.0,7,1
+98,NSD_phenomena3&4_version3CLIN,Hij is niet bepaald op vergaderen.,3. The Construction of the Adjective Phrase,0,3,2,7,1,1,3,2,1.0,2.0,2.0,,,,2.4,7,1
+99,NSD_phenomena3&4_version3CLIN,De examens zijn makkelijk zat.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,2,7,5,4,2,4,7,4.0,6.0,7.0,,,,4.8,7,2
+100,NSD_phenomena3&4_version3CLIN,Binnekort krijgen we een nieuwe en heel handig systeem.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,2,2,7,1,1,1,2,1.0,5.0,1.0,,,,2.3,7,1
+101,NSD_phenomena3&4_version3CLIN,Zijn ego is voldoende groot.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,4,6,7,1,1,1,5,5.0,2.0,7.0,,,,3.9,7,1
+102,NSD_phenomena3&4_version3CLIN,Die flats zijn geweldig hoog.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,4,6,6,3,6,3,7,7.0,2.0,7.0,,,,5.1,7,2
+103,NSD_phenomena3&4_version3CLIN,Mijn vrienden zijn geweldig mooi.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,6,6,3,2,4,3,7,5.0,2.0,7.0,,,,4.5,7,2
+104,NSD_phenomena3&4_version3CLIN,De studenten zijn geweldig slim.,4. Degree-Indicating or Reinforcing (Pre)Determinations,1,6,6,3,3,3,4,7,7.0,2.0,7.0,,,,4.8,7,2
+105,NSD_phenomena3&4_version3CLIN,Warm genoege koffie.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,4,6,7,1,1,1,2,1.0,2.0,3.0,,,,2.8,7,1
+106,NSD_phenomena3&4_version3CLIN,Een makkelijk zat klusje.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,4,5,7,4,2,1,2,4.0,2.0,7.0,,,,3.8,7,1
+107,NSD_phenomena3&4_version3CLIN,Ik vind het een hele handig apparaat.,4. Degree-Indicating or Reinforcing (Pre)Determinations,0,2,2,7,1,2,1,2,1.0,2.0,7.0,,,,2.7,7,1
+108,NSD_phenomena5&6_version1CLIN,(We zijn niet) geneigd (om) dit zomaar voorbij te laten gaan.,2. Subordinate Clauses,1,5,1,5,4,1,5,7,3.0,,,,,,3.875,7,1
+109,NSD_phenomena5&6_version1CLIN,(Jan is altijd) bereid (om) te helpen.,2. Subordinate Clauses,1,6,4,6,5,7,7,7,7.0,,,,,,6.125,7,4
+110,NSD_phenomena5&6_version1CLIN,(We zijn niet) bereid (om) te luisteren.,2. Subordinate Clauses,1,7,7,6,5,7,6,7,1.0,,,,,,5.75,7,1
+111,NSD_phenomena5&6_version1CLIN,(Ze zijn niet) geneigd (om) te vechten.,2. Subordinate Clauses,1,5,3,5,3,1,6,5,5.0,,,,,,4.125,6,1
+112,NSD_phenomena5&6_version1CLIN,(We zijn niet) in staat (om) te begrijpen.,2. Subordinate Clauses,1,5,1,2,1,2,4,2,6.0,,,,,,2.875,6,1
+113,NSD_phenomena5&6_version1CLIN,(Peter is altijd) van plan (om) te slagen.,2. Subordinate Clauses,1,5,7,6,2,1,5,5,2.0,,,,,,4.125,7,1
+114,NSD_phenomena5&6_version1CLIN,(Piet is niet) bereid dat hij zou stoppen met roken.,2. Subordinate Clauses,0,4,1,3,2,1,1,1,1.0,,,,,,1.75,4,1
+115,NSD_phenomena5&6_version1CLIN,(Hij is niet) gewend dat hij aan de kant te worden gezet.,2. Subordinate Clauses,0,5,1,1,1,1,1,1,1.0,,,,,,1.5,5,1
+116,NSD_phenomena5&6_version1CLIN,(Hij is niet) van plan dat hij zou helpen.,2. Subordinate Clauses,0,2,1,2,3,1,1,1,1.0,,,,,,1.5,3,1
+117,NSD_phenomena5&6_version1CLIN,Je moet tenslotte ergens in geloven.,1. Pronominal Adverbs,1,7,7,7,6,7,7,7,7.0,,,,,,6.875,7,6
+118,NSD_phenomena5&6_version1CLIN,Nergens wordt echt diep op ingegaan.,1. Pronominal Adverbs,1,6,7,7,5,2,7,7,7.0,,,,,,6.0,7,2
+119,NSD_phenomena5&6_version1CLIN,Hij heeft overal een mening over.,1. Pronominal Adverbs,1,7,7,7,6,7,7,6,7.0,,,,,,6.75,7,6
+120,NSD_phenomena5&6_version1CLIN,Eigenlijk lijkt het voorwerp op niets dat ik eerder heb gezien.,1. Pronominal Adverbs,1,6,7,5,4,1,5,4,1.0,,,,,,4.125,7,1
+121,NSD_phenomena5&6_version1CLIN,Ik steun haar in alles wat ze doet.,1. Pronominal Adverbs,1,7,7,7,6,6,7,7,5.0,,,,,,6.5,7,5
+122,NSD_phenomena5&6_version1CLIN,Verftekeningen lagen op stapels gekwakt ... Nergens stond een titel of datum op.,1. Pronominal Adverbs,1,4,7,4,5,1,6,7,7.0,,,,,,5.125,7,1
+123,NSD_phenomena5&6_version1CLIN,Daar hebben enkele honderden werknemers actie naast gevoerd met werkonderbrekingen.,1. Pronominal Adverbs,0,5,3,3,3,1,1,6,2.0,,,,,,3.0,6,1
+124,NSD_phenomena5&6_version1CLIN,Overal uit kwam snot.,1. Pronominal Adverbs,0,5,1,1,1,1,1,1,1.0,,,,,,1.5,5,1
+125,NSD_phenomena5&6_version1CLIN,Waarnaartoe ga je?,1. Pronominal Adverbs,0,4,1,2,3,1,1,7,1.0,,,,,,2.5,7,1
+126,NSD_phenomena5&6_version2CLIN,(We zijn niet) geneigd (om) dit zomaar voorbij te laten gaan.,2. Subordinate Clauses,1,3,5,7,6,7,7,7,6.0,7.0,7.0,,,,6.2,7,3
+127,NSD_phenomena5&6_version2CLIN,(Jan is altijd) bereid (om) te helpen.,2. Subordinate Clauses,1,7,7,7,7,7,7,7,7.0,7.0,7.0,,,,7.0,7,7
+128,NSD_phenomena5&6_version2CLIN,(We zijn niet) bereid (om) te luisteren.,2. Subordinate Clauses,1,7,5,7,7,6,7,7,6.0,7.0,7.0,,,,6.6,7,5
+129,NSD_phenomena5&6_version2CLIN,(Piet is niet) bereid (om) te stoppen met roken.,2. Subordinate Clauses,1,7,5,7,7,7,7,7,7.0,7.0,6.0,,,,6.7,7,5
+130,NSD_phenomena5&6_version2CLIN,(Hij is niet) gewend (om) aan de kant gezet te worden.,2. Subordinate Clauses,1,7,7,7,6,6,7,7,6.0,7.0,6.0,,,,6.6,7,6
+131,NSD_phenomena5&6_version2CLIN,(Hij is niet) van plan (om) te helpen.,2. Subordinate Clauses,1,7,7,7,7,6,7,7,6.0,7.0,7.0,,,,6.8,7,6
+132,NSD_phenomena5&6_version2CLIN,(Ze zijn niet) geneigd dat ze zouden vechten.,2. Subordinate Clauses,0,1,1,1,3,2,3,1,2.0,2.0,2.0,,,,1.8,3,1
+133,NSD_phenomena5&6_version2CLIN,(We zijn niet) in staat dat we zouden begrijpen.,2. Subordinate Clauses,0,1,1,1,2,2,2,1,1.0,1.0,2.0,,,,1.4,2,1
+134,NSD_phenomena5&6_version2CLIN,(Peter is altijd) van plan dat hij zou slagen.,2. Subordinate Clauses,0,1,1,1,1,2,1,1,2.0,1.0,2.0,,,,1.3,2,1
+135,NSD_phenomena5&6_version2CLIN,Je moet tenslotte ergens in geloven.,1. Pronominal Adverbs,1,7,7,7,6,5,7,7,6.0,7.0,7.0,,,,6.6,7,5
+136,NSD_phenomena5&6_version2CLIN,Nergens wordt echt diep op ingegaan.,1. Pronominal Adverbs,1,6,5,7,5,2,5,4,6.0,2.0,7.0,,,,4.9,7,2
+137,NSD_phenomena5&6_version2CLIN,Hij heeft overal een mening over.,1. Pronominal Adverbs,1,7,7,7,7,7,7,7,7.0,7.0,7.0,,,,7.0,7,7
+138,NSD_phenomena5&6_version2CLIN,Daarnaast hebben enkele honderden werknemers actie gevoerd met werkonderbrekingen.,6,1,5,4,5,6,3,7,1,5.0,5.0,3.0,,,,4.4,7,1
+139,NSD_phenomena5&6_version2CLIN,Door de tranen kon ik niet meer lezen. Overal kwam snot uit.,1. Pronominal Adverbs,1,1,1,7,2,3,2,7,4.0,6.0,7.0,,,,4.0,7,1
+140,NSD_phenomena5&6_version2CLIN,Waar ga je naartoe?,1. Pronominal Adverbs,1,7,7,7,7,7,2,7,7.0,1.0,7.0,,,,5.9,7,1
+141,NSD_phenomena5&6_version2CLIN,Eigenlijk lijkt het voorwerp nergens op dat ik eerder heb gezien.,1. Pronominal Adverbs,0,1,1,2,3,2,2,1,6.0,2.0,2.0,,,,2.2,6,1
+142,NSD_phenomena5&6_version2CLIN,Ik steun haar overal in wat ze doet.,1. Pronominal Adverbs,0,4,2,2,5,3,4,3,6.0,3.0,2.0,,,,3.4,6,2
+143,NSD_phenomena5&6_version2CLIN,Verftekeningen lagen op stapels gekwakt. Nergens op stond een titel of datum.,1. Pronominal Adverbs,0,1,1,2,4,2,2,1,2.0,1.0,2.0,,,,1.8,4,1
+144,NSD_phenomena5&6_version3CLIN,(Ze zijn niet) geneigd (om) te vechten.,2. Subordinate Clauses,1,7,6,2,7,6,4,2,6.0,7.0,7.0,7.0,7.0,4.0,5.538461538,7,2
+145,NSD_phenomena5&6_version3CLIN,(We zijn niet) in staat (om) te begrijpen.,2. Subordinate Clauses,1,2,2,2,5,2,1,2,5.0,2.0,3.0,4.0,5.0,1.0,2.769230769,5,1
+146,NSD_phenomena5&6_version3CLIN,(Peter is altijd) van plan (om) te slagen.,2. Subordinate Clauses,1,4,5,3,7,6,2,2,6.0,7.0,6.0,3.0,7.0,7.0,5.0,7,2
+147,NSD_phenomena5&6_version3CLIN,(Piet is niet) bereid (om) te stoppen met roken.,2. Subordinate Clauses,1,7,7,5,7,6,6,6,7.0,7.0,6.0,7.0,7.0,7.0,6.538461538,7,5
+148,NSD_phenomena5&6_version3CLIN,(Hij is niet) gewend (om) aan de kant gezet te worden.,2. Subordinate Clauses,1,6,6,5,7,6,5,6,7.0,2.0,7.0,7.0,7.0,6.0,5.923076923,7,2
+149,NSD_phenomena5&6_version3CLIN,(Hij is niet) van plan (om) te helpen.,2. Subordinate Clauses,1,7,7,6,7,7,5,2,6.0,7.0,6.0,7.0,6.0,7.0,6.153846154,7,2
+150,NSD_phenomena5&6_version3CLIN,(We zijn niet) geneigd dat we dit zomaar voorbij zouden laten gaan.,2. Subordinate Clauses,0,1,2,2,6,2,2,3,6.0,3.0,2.0,1.0,2.0,1.0,2.538461538,6,1
+151,NSD_phenomena5&6_version3CLIN,(Jan is altijd) bereid dat hij zou helpen.,2. Subordinate Clauses,0,1,1,2,1,1,1,2,1.0,1.0,1.0,1.0,1.0,1.0,1.153846154,2,1
+152,NSD_phenomena5&6_version3CLIN,(We zijn niet) bereid dat we zouden luisteren.,2. Subordinate Clauses,0,1,2,3,1,2,2,2,1.0,1.0,1.0,1.0,1.0,1.0,1.461538462,3,1
+153,NSD_phenomena5&6_version3CLIN,Daarnaast hebben enkele honderden werknemers actie gevoerd met werkonderbrekingen.,6,1,7,6,4,7,6,3,2,7.0,3.0,6.0,7.0,5.0,1.0,4.923076923,7,1
+154,NSD_phenomena5&6_version3CLIN,Door de tranen kon ik niet meer lezen. Overal kwam snot uit.,1. Pronominal Adverbs,1,4,6,5,7,4,7,5,7.0,6.0,7.0,6.0,5.0,6.0,5.769230769,7,4
+155,NSD_phenomena5&6_version3CLIN,Waar ga je naartoe?,1. Pronominal Adverbs,1,7,7,7,7,7,7,7,7.0,7.0,7.0,7.0,1.0,7.0,6.538461538,7,1
+156,NSD_phenomena5&6_version3CLIN,Eigenlijk lijkt het voorwerp op niets dat ik eerder heb gezien.,1. Pronominal Adverbs,1,4,6,2,7,7,6,7,7.0,7.0,4.0,7.0,5.0,7.0,5.846153846,7,2
+157,NSD_phenomena5&6_version3CLIN,Ik steun haar in alles wat ze doet.,1. Pronominal Adverbs,1,7,6,6,7,7,7,6,7.0,7.0,7.0,5.0,7.0,7.0,6.615384615,7,5
+158,NSD_phenomena5&6_version3CLIN,Verftekeningen lagen op stapels gekwakt ... Nergens stond een titel of datum op.,1. Pronominal Adverbs,1,2,6,1,7,6,5,2,6.0,6.0,5.0,7.0,5.0,5.0,4.846153846,7,1
+159,NSD_phenomena5&6_version3CLIN,Ergens in moet je tenslotte geloven.,1. Pronominal Adverbs,0,1,1,2,1,1,2,2,1.0,1.0,1.0,1.0,1.0,1.0,1.230769231,2,1
+160,NSD_phenomena5&6_version3CLIN,Nergens op wordt echt diep ingegaan.,1. Pronominal Adverbs,0,1,1,1,1,2,2,3,1.0,1.0,1.0,1.0,1.0,2.0,1.384615385,3,1
+161,NSD_phenomena5&6_version3CLIN,Overal over heeft hij een mening.,1. Pronominal Adverbs,0,1,1,1,1,1,3,4,1.0,1.0,1.0,1.0,1.0,1.0,1.384615385,4,1
+162,NSD_phenomena7&8_version1CLIN,Hij zei dat hij de kraanvogels graag wilde fotograferen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,7,3,7,6,7,7,2.0,,,,,,5.5,7,2
+163,NSD_phenomena7&8_version1CLIN,Ze was dat boek gaan lezen omdat ze gehoopt had er iets uit te leren.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,4,6,1,4,4,7,3.0,,,,,,4.25,7,1
+164,NSD_phenomena7&8_version1CLIN,Ik had gehoopt dat Dick dat artikel intussen aan de redactie had geprobeerd door te sturen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,3,4,7,5,7,5,2.0,,,,,,4.75,7,2
+165,NSD_phenomena7&8_version1CLIN,Ik had gehoopt dat Dick dat artikel intussen aan de redactie had proberen door te sturen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,1,5,7,4,5,5,4.0,,,,,,4.5,7,1
+166,NSD_phenomena7&8_version1CLIN,Ik zag hoe Bregje de bal door de opening probeerde te krijgen,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,7,5,7,6,7,7,6.0,,,,,,6.25,7,5
+167,NSD_phenomena7&8_version1CLIN,Ze zeggen dat hij toen pas merkte een fout gemaakt te hebben.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,2,5,7,4,2,7,3.0,,,,,,4.375,7,2
+168,NSD_phenomena7&8_version1CLIN,Hij wist dat hij moest organiseren zijn documenten.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,2,1,2,1,2,1,1,1.0,,,,,,1.375,2,1
+169,NSD_phenomena7&8_version1CLIN,Ze hoorde dat ze moest verzetten haar afspraak.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,1,1,2,1,2,1,1,1.0,,,,,,1.25,2,1
+170,NSD_phenomena7&8_version1CLIN,Hij realiseerde zich dat hij had gemaakt een fout.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,1,1,2,1,2,1,1,1.0,,,,,,1.25,2,1
+171,NSD_phenomena7&8_version1CLIN,De kinderen leren op school zwemmen.,9. Verbs With a Participle as a Complement,1,6,2,3,2,6,7,7,3.0,,,,,,4.5,7,2
+172,NSD_phenomena7&8_version1CLIN,Hij zit te slapen.,9. Verbs With a Participle as a Complement,1,2,5,6,1,3,7,7,6.0,,,,,,4.625,7,1
+173,NSD_phenomena7&8_version1CLIN,Zijn broer gaat in Spanje wonen.,9. Verbs With a Participle as a Complement,1,7,7,7,7,7,7,7,7.0,,,,,,7.0,7,7
+174,NSD_phenomena7&8_version1CLIN,Dat hoefde ze niet te doen.,9. Verbs With a Participle as a Complement,1,6,7,6,7,6,7,7,2.0,,,,,,6.0,7,2
+175,NSD_phenomena7&8_version1CLIN,We zagen de koningin voorbijkomen.,9. Verbs With a Participle as a Complement,1,6,7,6,7,5,7,7,7.0,,,,,,6.5,7,5
+176,NSD_phenomena7&8_version1CLIN,Ze laten de bagage op het station staan.,9. Verbs With a Participle as a Complement,1,6,7,7,5,6,7,7,6.0,,,,,,6.375,7,5
+177,NSD_phenomena7&8_version1CLIN,Peter is vanmiddag geweest voetballen.,9. Verbs With a Participle as a Complement,0,5,1,1,1,1,1,1,1.0,,,,,,1.5,5,1
+178,NSD_phenomena7&8_version1CLIN,Zijn broer heeft altijd al in Spanje gewild gaan wonen.,9. Verbs With a Participle as a Complement,0,1,1,2,1,2,1,1,1.0,,,,,,1.25,2,1
+179,NSD_phenomena7&8_version1CLIN,Geen wonder dat de wandelaars bleken uitgehongerd (te zijn).,9. Verbs With a Participle as a Complement,0,4,2,2,1,5,1,1,3.0,,,,,,2.375,5,1
+180,NSD_phenomena7&8_version2CLIN,Hij zei dat hij de kraanvogels graag wilde fotograferen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,7,5,7,7,6,7,4,7.0,7.0,7.0,6.0,,,6.363636364,7,4
+181,NSD_phenomena7&8_version2CLIN,Ze was dat boek gaan lezen omdat ze gehoopt had er iets uit te leren.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,6,2,6,6,5,7,4,4.0,5.0,6.0,6.0,,,5.181818182,7,2
+182,NSD_phenomena7&8_version2CLIN,Ik had gehoopt dat Dick dat artikel intussen aan de redactie had geprobeerd door te sturen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,4,6,6,4,6,6,4,6.0,5.0,6.0,3.0,,,5.090909091,6,3
+183,NSD_phenomena7&8_version2CLIN,Hij wist dat hij zijn documenten moest organiseren.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,5,2,7,6,6,6,5,7.0,7.0,7.0,6.0,,,5.818181818,7,2
+184,NSD_phenomena7&8_version2CLIN,Ze hoorde dat ze haar afspraak moest verzetten.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,7,7,7,7,5,7,6,7.0,7.0,7.0,6.0,,,6.636363636,7,5
+185,NSD_phenomena7&8_version2CLIN,Hij realiseerde zich dat hij een fout had gemaakt.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,7,7,7,7,6,7,7,7.0,7.0,6.0,6.0,,,6.727272727,7,6
+186,NSD_phenomena7&8_version2CLIN,Ik had gehoopt dat Dick dat artikel intussen had proberen aan de redactie door te sturen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,2,1,4,1,2,4,1,1.0,4.0,3.0,1.0,,,2.181818182,4,1
+187,NSD_phenomena7&8_version2CLIN,Ik zag hoe Bregje de bal probeerde door de opening te krijgen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,5,7,4,5,5,7,3,4.0,6.0,4.0,4.0,,,4.909090909,7,3
+188,NSD_phenomena7&8_version2CLIN,Ze zeggen dat hij toen pas een fout gemaakt merkte te hebben.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,2,1,3,1,4,4,1,1.0,3.0,1.0,2.0,,,2.090909091,4,1
+189,NSD_phenomena7&8_version2CLIN,Hij zit te slapen.,9. Verbs With a Participle as a Complement,1,7,3,7,7,7,5,7,7.0,6.0,2.0,5.0,,,5.727272727,7,2
+190,NSD_phenomena7&8_version2CLIN,Zijn broer gaat in Spanje wonen.,9. Verbs With a Participle as a Complement,1,7,6,7,7,7,7,7,7.0,7.0,7.0,7.0,,,6.909090909,7,6
+191,NSD_phenomena7&8_version2CLIN,Dat hoefde ze niet te doen.,9. Verbs With a Participle as a Complement,1,7,2,7,7,6,7,5,7.0,6.0,7.0,7.0,,,6.181818182,7,2
+192,NSD_phenomena7&8_version2CLIN,Peter is vanmiddag voetballen.,9. Verbs With a Participle as a Complement,1,4,2,6,7,7,5,5,6.0,5.0,6.0,3.0,,,5.090909091,7,2
+193,NSD_phenomena7&8_version2CLIN,Zijn broer wil in Spanje gaan wonen.,9. Verbs With a Participle as a Complement,1,7,6,7,7,7,7,7,7.0,7.0,7.0,7.0,,,6.909090909,7,6
+194,NSD_phenomena7&8_version2CLIN,Geen wonder dat de wandelaars uitgehongerd bleken (te zijn).,9. Verbs With a Participle as a Complement,1,3,5,7,7,7,7,4,6.0,7.0,6.0,4.0,,,5.727272727,7,3
+195,NSD_phenomena7&8_version2CLIN,We hebben de koningin gezien voorbijkomen.,9. Verbs With a Participle as a Complement,0,2,1,4,1,2,2,1,1.0,3.0,1.0,2.0,,,1.818181818,4,1
+196,NSD_phenomena7&8_version2CLIN,Ze hebben de bagage op het station gelaten staan.,9. Verbs With a Participle as a Complement,0,2,1,2,7,2,4,1,1.0,3.0,1.0,1.0,,,2.272727273,7,1
+197,NSD_phenomena7&8_version2CLIN,De kinderen hebben op school geleerd zwemmen.,9. Verbs With a Participle as a Complement,0,2,1,4,1,5,4,1,1.0,4.0,1.0,2.0,,,2.363636364,5,1
+198,NSD_phenomena7&8_version3CLIN,Ik had gehoopt dat Dick dat artikel intussen aan de redactie had proberen door te sturen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,1,3,4,5,4,6,7,7.0,1.0,,,,,4.222222222,7,1
+199,NSD_phenomena7&8_version3CLIN,Ik zag hoe Bregje de bal door de opening probeerde te krijgen,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,1,7,5,6,7,7,6,7.0,5.0,,,,,5.666666667,7,1
+200,NSD_phenomena7&8_version3CLIN,Ze zeggen dat hij toen pas merkte een fout gemaakt te hebben.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,1,4,5,4,5,2,7,3.0,1.0,,,,,3.555555556,7,1
+201,NSD_phenomena7&8_version3CLIN,Hij wist dat hij zijn documenten moest organiseren.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,6,3,4,5,7,7,7,7.0,7.0,,,,,5.888888889,7,3
+202,NSD_phenomena7&8_version3CLIN,Ze hoorde dat ze haar afspraak moest verzetten.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,7,7,6,6,7,7,7,7.0,7.0,,,,,6.777777778,7,6
+203,NSD_phenomena7&8_version3CLIN,Hij realiseerde zich dat hij een fout had gemaakt.,8. Group-Forming and Non-Group-Forming Uses of Verbs,1,7,7,7,7,7,6,7,7.0,7.0,,,,,6.888888889,7,6
+204,NSD_phenomena7&8_version3CLIN,Hij zei dat hij de kraanvogels wilde graag fotograferen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,7,1,1,1,2,1,2,1.0,1.0,,,,,1.888888889,7,1
+205,NSD_phenomena7&8_version3CLIN,Ze was dat boek gaan lezen omdat ze er iets uit had hopen te leren.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,1,2,3,3,5,4,6,2.0,1.0,,,,,3.0,6,1
+206,NSD_phenomena7&8_version3CLIN,Ik had gehoopt dat Dick dat artikel intussen had geprobeerd aan de redactie door te sturen.,8. Group-Forming and Non-Group-Forming Uses of Verbs,0,1,2,4,5,6,4,4,6.0,4.0,,,,,4.0,6,1
+207,NSD_phenomena7&8_version3CLIN,We zagen de koningin voorbijkomen.,9. Verbs With a Participle as a Complement,1,7,7,6,7,7,7,7,7.0,7.0,,,,,6.888888889,7,6
+208,NSD_phenomena7&8_version3CLIN,Ze laten de bagage op het station staan.,9. Verbs With a Participle as a Complement,1,7,7,5,7,7,7,7,7.0,7.0,,,,,6.777777778,7,5
+209,NSD_phenomena7&8_version3CLIN,De kinderen leren op school zwemmen.,9. Verbs With a Participle as a Complement,1,6,7,7,6,7,2,2,4.0,4.0,,,,,5.0,7,2
+210,NSD_phenomena7&8_version3CLIN,Peter is vanmiddag voetballen.,9. Verbs With a Participle as a Complement,1,7,4,5,2,7,7,2,3.0,5.0,,,,,4.666666667,7,2
+211,NSD_phenomena7&8_version3CLIN,Zijn broer wil in Spanje gaan wonen.,9. Verbs With a Participle as a Complement,1,7,7,5,7,7,7,7,7.0,7.0,,,,,6.777777778,7,5
+212,NSD_phenomena7&8_version3CLIN,Geen wonder dat de wandelaars uitgehongerd bleken (te zijn).,9. Verbs With a Participle as a Complement,1,7,6,6,6,6,5,7,6.0,3.0,,,,,5.777777778,7,3
+213,NSD_phenomena7&8_version3CLIN,Hij heeft gezeten te slapen.,9. Verbs With a Participle as a Complement,0,2,1,1,1,2,2,2,1.0,1.0,,,,,1.444444444,2,1
+214,NSD_phenomena7&8_version3CLIN,Zijn broer is in Spanje gegaan wonen.,9. Verbs With a Participle as a Complement,0,7,1,1,6,2,2,2,1.0,1.0,,,,,2.555555556,7,1
+215,NSD_phenomena7&8_version3CLIN,Dat had ze niet gehoeven doen.,9. Verbs With a Participle as a Complement,0,7,1,1,2,2,2,2,1.0,1.0,,,,,2.111111111,7,1
+216,NSD_phenomena9&10_version1CLIN,Die jongens zitten de hele les te slapen.,10. Verbs With an Infinitive as a Complement,1,5,5,4,7,7,7,7,7.0,6.0,7.0,7.0,4.0,,6.083333333,7,4
+217,NSD_phenomena9&10_version1CLIN,"Als je nu nog heel even blijft staan wachten, dan ga ik zo met je mee.",10. Verbs With an Infinitive as a Complement,1,4,1,3,5,6,7,1,5.0,3.0,2.0,6.0,6.0,,4.083333333,7,1
+218,NSD_phenomena9&10_version1CLIN,Ton heeft de hele middag aan zijn bureau zitten (te) werken.,10. Verbs With an Infinitive as a Complement,1,7,2,4,7,6,7,4,7.0,6.0,6.0,7.0,7.0,,5.833333333,7,2
+219,NSD_phenomena9&10_version1CLIN,De appels hebben al een maand aan de boom hangen te rotten.,10. Verbs With an Infinitive as a Complement,1,5,1,3,1,5,7,1,2.0,1.0,2.0,5.0,4.0,,3.083333333,7,1
+220,NSD_phenomena9&10_version1CLIN,Wim zit te slapen.,10. Verbs With an Infinitive as a Complement,1,6,5,2,7,7,7,7,7.0,4.0,7.0,7.0,2.0,,5.666666667,7,2
+221,NSD_phenomena9&10_version1CLIN,We geven u alvast enkel tips voor als u naar Corsica met vakantie mocht gaan.,10. Verbs With an Infinitive as a Complement,1,3,3,1,6,7,1,1,1.0,7.0,3.0,4.0,4.0,,3.416666667,7,1
+222,NSD_phenomena9&10_version1CLIN,Hoef ik naar hem te luisteren?,10. Verbs With an Infinitive as a Complement,0,4,1,2,1,1,1,1,1.0,1.0,2.0,6.0,2.0,,1.916666667,6,1
+223,NSD_phenomena9&10_version1CLIN,Die sportleraar heeft me geleerd te roeien.,10. Verbs With an Infinitive as a Complement,0,7,4,3,6,6,7,5,7.0,6.0,7.0,7.0,5.0,,5.833333333,7,3
+224,NSD_phenomena9&10_version1CLIN,Ik zag dat hij had zijn been op de stoel liggen.,10. Verbs With an Infinitive as a Complement,0,2,3,1,1,1,1,1,1.0,1.0,1.0,2.0,1.0,,1.333333333,3,1
+225,NSD_phenomena9&10_version1CLIN,Ze zag dat er een polítieauto kwam aangereden.,7. The Order Within the Verb Ending Group,1,6,1,2,7,7,7,2,6.0,2.0,6.0,6.0,5.0,,4.75,7,1
+226,NSD_phenomena9&10_version1CLIN,Ik hoop dat we voor zo'n ramp gespaard blijven.,7. The Order Within the Verb Ending Group,1,4,1,4,7,5,1,7,1.0,5.0,6.0,3.0,5.0,,4.083333333,7,1
+227,NSD_phenomena9&10_version1CLIN,Hij zei dat hij het vliegtuig niet kon zien naderen.,7. The Order Within the Verb Ending Group,1,7,3,3,7,7,7,6,7.0,6.0,6.0,6.0,6.0,,5.916666667,7,3
+228,NSD_phenomena9&10_version1CLIN,Ik denk dat ze nog wel zullen komen eten.,7. The Order Within the Verb Ending Group,1,7,6,4,5,7,7,5,7.0,2.0,6.0,5.0,4.0,,5.416666667,7,2
+229,NSD_phenomena9&10_version1CLIN,Ik vraag me af wanneer híj nu eindelijk eens de was te drogen hangt.,7. The Order Within the Verb Ending Group,1,7,4,3,7,6,4,7,7.0,5.0,7.0,3.0,4.0,,5.333333333,7,3
+230,NSD_phenomena9&10_version1CLIN,Hij zei dat hij met haar niets meer te maken wilde hebben.,7. The Order Within the Verb Ending Group,1,4,1,4,5,7,7,6,6.0,7.0,6.0,5.0,5.0,,5.25,7,1
+231,NSD_phenomena9&10_version1CLIN,Denk jij dat ze al zijn aan het eten?,7. The Order Within the Verb Ending Group,0,2,1,2,1,1,1,1,1.0,1.0,1.0,2.0,2.0,,1.333333333,2,1
+232,NSD_phenomena9&10_version1CLIN,Maarten zei dat hij 's middags vaak ging uit wandelen.,7. The Order Within the Verb Ending Group,0,2,1,2,1,4,1,1,1.0,1.0,3.0,3.0,2.0,,1.833333333,4,1
+233,NSD_phenomena9&10_version1CLIN,Ik denk dat die schuur nu wel moet staan op instorten.,7. The Order Within the Verb Ending Group,0,4,5,2,1,1,1,1,1.0,1.0,4.0,3.0,1.0,,2.083333333,5,1
+234,NSD_phenomena9&10_version2CLIN,Die jongens zitten de hele les te slapen.,10. Verbs With an Infinitive as a Complement,1,6,7,7,7,7,7,7,4.0,,,,,,6.5,7,4
+235,NSD_phenomena9&10_version2CLIN,"Als je nu nog heel even blijft staan wachten, dan ga ik zo met je mee.",10. Verbs With an Infinitive as a Complement,1,7,1,3,2,2,7,5,7.0,,,,,,4.25,7,1
+236,NSD_phenomena9&10_version2CLIN,Ton heeft de hele middag aan zijn bureau zitten (te) werken.,10. Verbs With an Infinitive as a Complement,1,5,6,7,6,6,7,7,7.0,,,,,,6.375,7,5
+237,NSD_phenomena9&10_version2CLIN,Moet ik naar hem luisteren?,10. Verbs With an Infinitive as a Complement,1,7,7,7,7,7,7,7,7.0,,,,,,7.0,7,7
+238,NSD_phenomena9&10_version2CLIN,Die sportleraar heeft me leren roeien.,10. Verbs With an Infinitive as a Complement,1,7,6,7,7,6,7,7,7.0,,,,,,6.75,7,6
+239,NSD_phenomena9&10_version2CLIN,Ik zag dat hij zijn been op de stoel had liggen.,10. Verbs With an Infinitive as a Complement,1,6,4,7,6,1,7,7,7.0,,,,,,5.625,7,1
+240,NSD_phenomena9&10_version2CLIN,De appels hebben al een maand aan de boom te rotten gehangen.,10. Verbs With an Infinitive as a Complement,0,2,3,1,2,1,2,1,3.0,,,,,,1.875,3,1
+241,NSD_phenomena9&10_version2CLIN,Wim zit slapen.,10. Verbs With an Infinitive as a Complement,0,1,1,1,1,1,1,1,1.0,,,,,,1.0,1,1
+242,NSD_phenomena9&10_version2CLIN,We geven u alvast enkele tips voor mocht u naar Corsica met vakantie gaan.,10. Verbs With an Infinitive as a Complement,0,1,1,7,2,4,1,3,7.0,,,,,,3.25,7,1
+243,NSD_phenomena9&10_version2CLIN,Ze zag dat er een polítieauto kwam aangereden.,7. The Order Within the Verb Ending Group,1,5,6,1,1,1,7,6,7.0,,,,,,4.25,7,1
+244,NSD_phenomena9&10_version2CLIN,Ik hoop dat we voor zo'n ramp gespaard blijven.,7. The Order Within the Verb Ending Group,1,5,1,7,7,4,7,3,7.0,,,,,,5.125,7,1
+245,NSD_phenomena9&10_version2CLIN,Hij zei dat hij het vliegtuig niet kon zien naderen.,7. The Order Within the Verb Ending Group,1,7,3,7,6,2,7,7,7.0,,,,,,5.75,7,2
+246,NSD_phenomena9&10_version2CLIN,Denk jij dat ze al aan het eten zijn?,7. The Order Within the Verb Ending Group,1,7,5,7,7,6,7,7,7.0,,,,,,6.625,7,5
+247,NSD_phenomena9&10_version2CLIN,Maarten zei dat hij 's middags vaak uit wandelen ging.,7. The Order Within the Verb Ending Group,1,7,3,7,7,5,7,7,7.0,,,,,,6.25,7,3
+248,NSD_phenomena9&10_version2CLIN,Ik denk dat die schuur nu wel op instorten moet staan.,7. The Order Within the Verb Ending Group,1,7,1,7,6,7,7,6,7.0,,,,,,6.0,7,1
+249,NSD_phenomena9&10_version2CLIN,Ik denk dat ze nog wel eten zullen komen.,7. The Order Within the Verb Ending Group,0,3,1,1,1,1,3,4,3.0,,,,,,2.125,4,1
+250,NSD_phenomena9&10_version2CLIN,Ik vraag me af wanneer híj nu eindelijk eens de was hangt te drogen.,7. The Order Within the Verb Ending Group,0,2,1,1,2,1,2,2,1.0,,,,,,1.5,2,1
+251,NSD_phenomena9&10_version2CLIN,Hij zei dat hij met haar niets meer wilde hebben te maken.,7. The Order Within the Verb Ending Group,0,1,1,1,1,1,1,2,1.0,,,,,,1.125,2,1
+252,NSD_phenomena9&10_version3CLIN,De appels hebben al een maand aan de boom hangen te rotten.,10. Verbs With an Infinitive as a Complement,1,2,2,2,2,1,7,1,,,,,,,2.428571429,7,1
+253,NSD_phenomena9&10_version3CLIN,Wim zit te slapen.,10. Verbs With an Infinitive as a Complement,1,5,7,7,6,5,3,2,,,,,,,5.0,7,2
+254,NSD_phenomena9&10_version3CLIN,We geven u alvast enkel tips voor als u naar Corsica met vakantie mocht gaan.,10. Verbs With an Infinitive as a Complement,1,1,2,3,2,1,7,1,,,,,,,2.428571429,7,1
+255,NSD_phenomena9&10_version3CLIN,Moet ik naar hem luisteren?,10. Verbs With an Infinitive as a Complement,1,7,7,7,7,7,7,7,,,,,,,7.0,7,7
+256,NSD_phenomena9&10_version3CLIN,Die sportleraar heeft me leren roeien.,10. Verbs With an Infinitive as a Complement,1,7,7,7,7,5,6,7,,,,,,,6.571428571,7,5
+257,NSD_phenomena9&10_version3CLIN,Ik zag dat hij zijn been op de stoel had liggen.,10. Verbs With an Infinitive as a Complement,1,6,7,5,5,3,3,7,,,,,,,5.142857143,7,3
+258,NSD_phenomena9&10_version3CLIN,Die jongens zitten de hele les slapen.,10. Verbs With an Infinitive as a Complement,0,1,1,7,6,1,2,7,,,,,,,3.571428571,7,1
+259,NSD_phenomena9&10_version3CLIN,"Als je nu nog heel even blijft staan te wachten, dan ga ik zo met je mee.",10. Verbs With an Infinitive as a Complement,0,1,3,5,4,3,4,7,,,,,,,3.857142857,7,1
+260,NSD_phenomena9&10_version3CLIN,Ton heeft de hele middag gezeten aan zijn bureau (te) werken.,10. Verbs With an Infinitive as a Complement,0,2,1,1,2,1,1,1,,,,,,,1.285714286,2,1
+261,NSD_phenomena9&10_version3CLIN,Ik denk dat ze nog wel zullen komen eten.,7. The Order Within the Verb Ending Group,1,6,5,7,6,7,6,7,,,,,,,6.285714286,7,5
+262,NSD_phenomena9&10_version3CLIN,Ik vraag me af wanneer híj nu eindelijk eens de was te drogen hangt.,7. The Order Within the Verb Ending Group,1,4,6,7,4,5,6,7,,,,,,,5.571428571,7,4
+263,NSD_phenomena9&10_version3CLIN,Hij zei dat hij met haar niets meer te maken wilde hebben.,7. The Order Within the Verb Ending Group,1,3,6,7,4,7,3,6,,,,,,,5.142857143,7,3
+264,NSD_phenomena9&10_version3CLIN,Denk jij dat ze al aan het eten zijn?,7. The Order Within the Verb Ending Group,1,7,5,7,7,7,6,7,,,,,,,6.571428571,7,5
+265,NSD_phenomena9&10_version3CLIN,Maarten zei dat hij 's middags vaak uit wandelen ging.,7. The Order Within the Verb Ending Group,1,4,6,7,7,6,7,6,,,,,,,6.142857143,7,4
+266,NSD_phenomena9&10_version3CLIN,Ik denk dat die schuur nu wel op instorten moet staan.,7. The Order Within the Verb Ending Group,1,5,6,7,4,6,7,7,,,,,,,6.0,7,4
+267,NSD_phenomena9&10_version3CLIN,Ze zag dat er een polítieauto aangereden kwam.,7. The Order Within the Verb Ending Group,0,7,6,4,4,2,5,4,,,,,,,4.571428571,7,2
+268,NSD_phenomena9&10_version3CLIN,Ik hoop dat we voor zo'n ramp blijven gespaard.,7. The Order Within the Verb Ending Group,0,2,2,3,2,6,1,7,,,,,,,3.285714286,7,1
+269,NSD_phenomena9&10_version3CLIN,Hij zei dat hij het vliegtuig niet naderen kon zien.,7. The Order Within the Verb Ending Group,0,2,1,1,2,1,2,2,,,,,,,1.571428571,2,1

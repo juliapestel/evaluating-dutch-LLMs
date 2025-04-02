@@ -1,0 +1,14 @@
+vraag,Q14_1,Q18_1,Q17_1,Q16_1,Q15_1,Q13_1,Q14_1,Q15_1,Q16_1,Q17_1,Q25_1,Q24_1,Q23_1,Q22_1,Q21_1,Q20_1,Q19_1,Q18_1
+zin,De appels hebben al een maand aan de boom hangen te rotten.,Wim zit te slapen.,We geven u alvast enkel tips voor als u naar Corsica met vakantie mocht gaan.,Moet ik naar hem luisteren?,Die sportleraar heeft me leren roeien.,Ik zag dat hij zijn been op de stoel had liggen.,Die jongens zitten de hele les slapen.,"Als je nu nog heel even blijft staan te wachten, dan ga ik zo met je mee.",Ton heeft de hele middag gezeten aan zijn bureau (te) werken.,Ik denk dat ze nog wel zullen komen eten.,Ik vraag me af wanneer híj nu eindelijk eens de was te drogen hangt.,Hij zei dat hij met haar niets meer te maken wilde hebben.,Denk jij dat ze al aan het eten zijn?,Maarten zei dat hij 's middags vaak uit wandelen ging.,Ik denk dat die schuur nu wel op instorten moet staan.,Ze zag dat er een polítieauto aangereden kwam.,Ik hoop dat we voor zo'n ramp blijven gespaard.,Hij zei dat hij het vliegtuig niet naderen kon zien.
+phenomenon,9,9,9,9,9,9,9,9,9,10,10,10,10,10,10,10,10,10
+grammatical,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0
+id_1,2,5,1,7,7,6,1,1,2,6,4,3,7,4,5,7,2,2
+id_2,2,7,2,7,7,7,1,3,1,5,6,6,5,6,6,6,2,1
+id_3,2,7,3,7,7,5,7,5,1,7,7,7,7,7,7,4,3,1
+id_4,2,6,2,7,7,5,6,4,2,6,4,4,7,7,4,4,2,2
+id_5,1,5,1,7,5,3,1,3,1,7,5,7,7,6,6,2,6,1
+id_6,7,3,7,7,6,3,2,4,1,6,6,3,6,7,7,5,1,2
+id_7,1,2,1,7,7,7,7,7,1,7,7,6,7,6,7,4,7,2
+avg,2;428571429,5,2;428571429,7,6;571428571,5;142857143,3;571428571,3;857142857,1;285714286,6;285714286,5;571428571,5;142857143,6;571428571,6;142857143,6,4;571428571,3;285714286,1;571428571
+max,7,7,7,7,7,7,7,7,2,7,7,7,7,7,7,7,7,2
+min,1,2,1,7,5,3,1,1,1,5,4,3,5,4,4,2,1,1

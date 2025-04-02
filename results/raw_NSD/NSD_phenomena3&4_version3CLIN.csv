@@ -1,0 +1,17 @@
+vraag,Q14_1,Q18_1,Q17_1,Q16_1,Q15_1,Q13_1,Q14_1,Q15_1,Q16_1,Q17_1,Q25_1,Q24_1,Q23_1,Q22_1,Q21_1,Q20_1,Q19_1,Q18_1
+zin,De boom is erg hoog.,Wim is nogal eigenwijs.,Nienke is zeer aantrekkelijk.,Hij is niet dol op online les.,De reis is heel lang.,De bank is een beetje zacht.,Een zeer gesteente.,Laura is heel.,Hij is niet bepaald op vergaderen.,De examens zijn makkelijk zat.,Binnekort krijgen we een nieuwe en heel handig systeem.,Zijn ego is voldoende groot.,Die flats zijn geweldig hoog.,Mijn vrienden zijn geweldig mooi.,De studenten zijn geweldig slim.,Warm genoege koffie.,Een makkelijk zat klusje.,Ik vind het een hele handig apparaat.
+phenomenon,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4
+grammatical,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0
+id_1,6,7,7,6,7,5,2,1,3,2,2,4,4,6,6,4,4,2
+id_2,7,7,7,7,7,7,3,3,2,7,2,6,6,6,6,6,5,2
+id_3,2,1,2,4,2,2,7,7,7,5,7,7,6,3,3,7,7,7
+id_4,5,6,6,3,6,4,1,1,1,4,1,1,3,2,3,1,4,1
+id_5,2,7,7,2,7,5,1,1,1,2,1,1,6,4,3,1,2,2
+id_6,7,7,7,7,1,7,3,1,3,4,1,1,3,3,4,1,1,1
+id_7,7,7,7,7,7,7,2,2,2,7,2,5,7,7,7,2,2,2
+id_8,7,7,7,7,7,7,1,1,1,4,1,5,7,5,7,1,4,1
+id_9,2,6,7,2,7,3,2,2,2,6,5,2,2,2,2,2,2,2
+id_10,7,7,7,7,7,7,1,1,2,7,1,7,7,7,7,3,7,7
+avg,5;2,6;2,6;4,5;2,5;8,5;4,2;3,2,2;4,4;8,2;3,3;9,5;1,4;5,4;8,2;8,3;8,2;7
+max,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7
+min,2,1,2,2,1,2,1,1,1,2,1,1,2,2,2,1,1,1

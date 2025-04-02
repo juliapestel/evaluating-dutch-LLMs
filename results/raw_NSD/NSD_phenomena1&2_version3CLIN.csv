@@ -1,0 +1,17 @@
+vraag,Q14_1,Q18_1,Q17_1,Q16_1,Q15_1,Q13_1,Q14_1,Q15_1,Q16_1,Q17_1,Q25_1,Q24_1,Q23_1,Q22_1,Q21_1,Q20_1,Q19_1,Q18_1
+zin,De maan schijnt.,De zon schijnt.,De aarde is bol.,De Toren van Pisa helt over.,De Taj Mahal staat in India.,Het continent van Europa is klein.,Een sahara is erg heet.,Er staat een Eiffeltoren in Parijs.,Er hangt een Mona Lisa in het Louvre,De terechtstelling van de misdadiger (was afschrikwekkend.),De schenking van kadobonnen aan de jarige (was een goed idee.),De verstrekking van kortingsbonnen in een supermarkt (werd gewaardeerd.),Mosselen eten (is in de mode.),Cognac aanbieden aan tante Fien (vindt pa doodzonde.),Een nieuwe broek kopen voor Eric (is altijd leuk.),Het een pannenkoek bakken (is voor Anneke niet moeilijk.),Het van pannenkoeken bakken (is voor Anneke niet moeilijk.),Het grootmoeder inschenken van thee (is een hele opgave.)
+phenomenon,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2
+grammatical,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0
+id_1,7,7,2,5,7,2,2,2,2,7,4,4,5,5,6,1,1,1
+id_2,7,6,6,6,7,2,4,3,4,3,3,4,2,4,4,1,1,1
+id_3,1,7,5,6,7,4,4,3,3,5,5,4,3,5,5,3,2,1
+id_4,3,7,2,4,5,2,1,1,5,2,1,1,3,2,1,1,1,1
+id_5,7,7,6,7,7,1,1,2,2,6,6,7,7,7,7,1,1,6
+id_6,7,7,1,4,5,4,1,4,1,1,1,1,1,1,1,1,1,1
+id_7,7,7,7,7,7,1,1,2,1,7,5,6,7,4,7,1,1,1
+id_8,7,7,7,4,7,2,7,3,1,7,5,6,2,6,6,1,1,1
+id_9,7,7,5,5,7,5,4,5,4,7,7,7,7,6,7,1,3,1
+id_10,7,7,7,7,7,7,1,3,2,7,7,7,7,7,7,1,1,1
+avg,6,6;9,4;8,5;5,6;6,3,2;6,2;8,2;5,5;2,4;4,4;7,4;4,4;7,5;1,1;2,1;3,1;5
+max,7,7,7,7,7,7,7,5,5,7,7,7,7,7,7,3,3,6
+min,1,6,1,4,5,1,1,1,1,1,1,1,1,1,1,1,1,1

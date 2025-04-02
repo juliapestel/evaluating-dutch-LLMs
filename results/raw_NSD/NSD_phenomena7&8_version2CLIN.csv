@@ -1,0 +1,18 @@
+vraag,Q14_1,Q18_1,Q17_1,Q16_1,Q15_1,Q13_1,Q14_1,Q15_1,Q16_1,Q17_1,Q25_1,Q24_1,Q23_1,Q22_1,Q21_1,Q20_1,Q19_1,Q18_1
+zin,Hij zei dat hij de kraanvogels graag wilde fotograferen.,Ze was dat boek gaan lezen omdat ze gehoopt had er iets uit te leren.,Ik had gehoopt dat Dick dat artikel intussen aan de redactie had geprobeerd door te sturen.,Hij wist dat hij zijn documenten moest organiseren.,Ze hoorde dat ze haar afspraak moest verzetten.,Hij realiseerde zich dat hij een fout had gemaakt.,Ik had gehoopt dat Dick dat artikel intussen had proberen aan de redactie door te sturen.,Ik zag hoe Bregje de bal probeerde door de opening te krijgen.,Ze zeggen dat hij toen pas een fout gemaakt merkte te hebben.,Hij zit te slapen.,Zijn broer gaat in Spanje wonen.,Dat hoefde ze niet te doen.,Peter is vanmiddag voetballen.,Zijn broer wil in Spanje gaan wonen.,Geen wonder dat de wandelaars uitgehongerd bleken (te zijn).,We hebben de koningin gezien voorbijkomen.,Ze hebben de bagage op het station gelaten staan.,De kinderen hebben op school geleerd zwemmen.
+phenomenon,7,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8
+grammatical,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0
+id_1,7,6,4,5,7,7,2,5,2,7,7,7,4,7,3,2,2,2
+id_2,5,2,6,2,7,7,1,7,1,3,6,2,2,6,5,1,1,1
+id_3,7,6,6,7,7,7,4,4,3,7,7,7,6,7,7,4,2,4
+id_4,7,6,4,6,7,7,1,5,1,7,7,7,7,7,7,1,7,1
+id_5,6,5,6,6,5,6,2,5,4,7,7,6,7,7,7,2,2,5
+id_6,7,7,6,6,7,7,4,7,4,5,7,7,5,7,7,2,4,4
+id_7,4,4,4,5,6,7,1,3,1,7,7,5,5,7,4,1,1,1
+id_8,7,4,6,7,7,7,1,4,1,7,7,7,6,7,6,1,1,1
+id_9,7,5,5,7,7,7,4,6,3,6,7,6,5,7,7,3,3,4
+id_10,7,6,6,7,7,6,3,4,1,2,7,7,6,7,6,1,1,1
+id_11,6,6,3,6,6,6,1,4,2,5,7,7,3,7,4,2,1,2
+avg,6;363636364,5;181818182,5;090909091,5;818181818,6;636363636,6;727272727,2;181818182,4;909090909,2;090909091,5;727272727,6;909090909,6;181818182,5;090909091,6;909090909,5;727272727,1;818181818,2;272727273,2;363636364
+max,7,7,6,7,7,7,4,7,4,7,7,7,7,7,7,4,7,5
+min,4,2,3,2,5,6,1,3,1,2,6,2,2,6,3,1,1,1

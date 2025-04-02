@@ -1,0 +1,15 @@
+vraag,Q14_1,Q18_1,Q17_1,Q16_1,Q15_1,Q13_1,Q14_1,Q15_1,Q16_1,Q17_1,Q25_1,Q24_1,Q23_1,Q22_1,Q21_1,Q20_1,Q19_1,Q18_1
+zin,(We zijn niet) geneigd (om) dit zomaar voorbij te laten gaan.,(Jan is altijd) bereid (om) te helpen.,(We zijn niet) bereid (om) te luisteren.,(Ze zijn niet) geneigd (om) te vechten.,(We zijn niet) in staat (om) te begrijpen.,(Peter is altijd) van plan (om) te slagen.,(Piet is niet) bereid dat hij zou stoppen met roken.,(Hij is niet) gewend dat hij aan de kant te worden gezet.,(Hij is niet) van plan dat hij zou helpen.,Je moet tenslotte ergens in geloven.,Nergens wordt echt diep op ingegaan.,Hij heeft overal een mening over.,Eigenlijk lijkt het voorwerp op niets dat ik eerder heb gezien.,Ik steun haar in alles wat ze doet.,Verftekeningen lagen op stapels gekwakt ... Nergens stond een titel of datum op.,Daar hebben enkele honderden werknemers actie naast gevoerd met werkonderbrekingen.,Overal uit kwam snot.,Waarnaartoe ga je?
+phenomenon,5,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6
+grammatical,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,0,0,0
+id_1,5,6,7,5,5,5,4,5,2,7,6,7,6,7,4,5,5,4
+id_2,1,4,7,3,1,7,1,1,1,7,7,7,7,7,7,3,1,1
+id_3,5,6,6,5,2,6,3,1,2,7,7,7,5,7,4,3,1,2
+id_4,4,5,5,3,1,2,2,1,3,6,5,6,4,6,5,3,1,3
+id_5,1,7,7,1,2,1,1,1,1,7,2,7,1,6,1,1,1,1
+id_6,5,7,6,6,4,5,1,1,1,7,7,7,5,7,6,1,1,1
+id_7,7,7,7,5,2,5,1,1,1,7,7,6,4,7,7,6,1,7
+id_8,3,7,1,5,6,2,1,1,1,7,7,7,1,5,7,2,1,1
+avg,3;875,6;125,5;75,4;125,2;875,4;125,1;75,1;5,1;5,6;875,6,6;75,4;125,6;5,5;125,3,1;5,2;5
+max,7,7,7,6,6,7,4,5,3,7,7,7,7,7,7,6,5,7
+min,1,4,1,1,1,1,1,1,1,6,2,6,1,5,1,1,1,1
