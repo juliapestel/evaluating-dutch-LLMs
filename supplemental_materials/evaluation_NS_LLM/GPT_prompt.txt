@@ -1,0 +1,31 @@
+I am conducting a study regarding the Dutch language and am testing how well humans can distinguish 
+whether a sentence is grammatical or ungrammatical. For this, I have multiple minimal pairs in Dutch 
+obtained from the ANS website (https://e-ans.ivdnt.org/): two sentence pairs with one being grammatical 
+and the other being ungrammatical. Here is an example of a minimal pair with the first sentence being 
+grammatical and the second ungrammatical:
+
+Karin vergist zich. | Karin vergist zichzelf.
+
+In order to effectively test how well humans can distinguish whether a sentence is grammatical or ungrammatical, 
+I need 50 minimal pairs for a phenomenon. In this case, I will need 50 minimal pairs for the phenomenon ‘verbs’, 
+specifically ‘Reflexive (reflexive) and non-reflexive (non-reflexive) verbs’. Below I will list a set of minimal 
+pairs in the same format as the example above. 
+
+Minimal pairs:
+Karin vergist zich. | Karin vergist zichzelf.
+Karin vergist zich. | Karin vergist haar.
+Karin vergist zich. | Karin vergist de baby.
+Zijn succes verheugt ons zeer. | Ik herinner mezelf nog veel uit mijn jeugdjaren.
+Zijn succes verheugt ons zeer. | Wij verheugen onszelf over zijn succes.
+Peter verwondde zich aan een glasscherf. (aan = 'door) | Peter verwondde zijn broertje aan een glasscherf.
+De verpleegster prikte zich aan een injectienaald. (aan = 'door') | De verpleegster prikte de patiënt aan een injectienaald.
+Ik amuseer mezelf altijd heel goed als ik alleen ben. | Ik zag me op de televisie.
+Ik zag mezelf op de televisie. | Hij stelde zich aan als directeur.
+
+Firstly, determine the critical region of the sentences. The critical region defines the point at which 
+the sentence in the ungrammatical condition actually turns ungrammatical. For instance, the critical region 
+in the example is the word ‘zich’ in the grammatical sentence, as this changes to ‘zichzelf’ in the ungrammatical 
+sentence which is wrong. List the critical regions of each of the listed minimal pairs.
+
+Secondly, create more minimal pairs similar to the listed minimal pairs. These minimal pairs need to be the same 
+as the listed minimal pairs in that they have to have the same critical region. Create 20 of these minimal pairs.
