@@ -17,7 +17,7 @@ We introduce a challenge set that evaluates both Large Language Models and nativ
 - Instructions shown to participants: `evaluating-dutch-LLMs/supplemental_materials/evaluation_NS_LLM/intructions.txt`
 - Folder contains figures used in paper: `evaluating-dutch-LLMs/supplemental_materials/figures/`
 
-## Data
+## Challenge Set
 
 The challenge set csv (`evaluating-dutch-LLMs/data/challenge_set.csv`) contains all minimal pairs including their relevant information. 
 
